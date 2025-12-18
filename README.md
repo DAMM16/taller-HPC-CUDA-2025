@@ -14,6 +14,9 @@ Este repositorio tiene los archivos utilizados en el taller **High-Performance C
 - [Sesión 0 (Presentación del taller)](https://github.com/DAMM16/taller-HPC-CUDA-2025/blob/main/Presentaciones/Sesion_0.pdf)
 - [Sesión 1 Martes AM](https://github.com/DAMM16/taller-HPC-CUDA-2025/blob/main/Presentaciones/Sesion_1.pdf)
 - [Sesión 2 Martes PM](https://github.com/DAMM16/taller-HPC-CUDA-2025/blob/main/Presentaciones/Sesion_2.pdf)
+- [Sesión 3 Miércoles AM](https://github.com/DAMM16/taller-HPC-CUDA-2025/blob/main/Presentaciones/Sesion_3_HPC.pdf)
+- [Sesión 4 Miércoles PM](https://github.com/DAMM16/taller-HPC-CUDA-2025/blob/main/Presentaciones/Sesion_4.pdf)
+
 
 Además está disponible un documento Colab con los talleres. 
 
