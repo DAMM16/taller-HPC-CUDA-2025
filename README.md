@@ -29,8 +29,8 @@ Además está disponible un documento Colab con los talleres.
 - [Sesión 6, simulador Game of Life CUDA](https://github.com/DAMM16/taller-HPC-CUDA-2025/blob/main/codes_sesion_6/GoL_GPU.py)
 
 # Sponsors
-- <img src="https://github.com/DAMM16/taller-HPC-CUDA-2025/blob/main/img/DM2A.png"  height="100">
-- <img src="https://github.com/DAMM16/taller-HPC-CUDA-2025/blob/main/img/IMA.png"  height="100">
-- <img src="https://github.com/DAMM16/taller-HPC-CUDA-2025/blob/main/img/GM3.png"  height="100">
-- <img src="https://github.com/DAMM16/taller-HPC-CUDA-2025/blob/main/img/GEMA.jpg"  height="100">
+<img src="https://github.com/DAMM16/taller-HPC-CUDA-2025/blob/main/img/DM2A.png"  height="100">
+<img src="https://github.com/DAMM16/taller-HPC-CUDA-2025/blob/main/img/IMA.png"  height="100">
+<img src="https://github.com/DAMM16/taller-HPC-CUDA-2025/blob/main/img/GM3.png"  height="100">
+<img src="https://github.com/DAMM16/taller-HPC-CUDA-2025/blob/main/img/GEMA.jpg"  height="100">
 
