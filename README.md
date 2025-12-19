@@ -1,4 +1,4 @@
-Este repositorio tiene los archivos utilizados en el taller **High-Performance Computing para Modelamiento Matemático con (Py)CUDA**
+Este repositorio tiene los archivos utilizados en el taller **High-Performance Computing para Modelamiento Matemático con (Py)CUDA** dictado por el [**Doctorado en modelamiento matemático aplicado**](https://www.dm2a.org/) de la Universidad Católica del Maule entre el 16 y 18 de diciembre 2025 .
 
 # Horario
 | **Horario** | **Martes 16** | **Miércoles 17** | **Jueves 18** |
