@@ -52,7 +52,7 @@ LifeStep = mod.get_function("LifeStep")
 # -----------------------------
 n = 256
 T = 1000
-p = 0.2
+p = 0.5
 
 A0 = (np.random.rand(n, n) < p).astype(np.int32)
 cond_ini = np.ascontiguousarray(A0).ravel()
