@@ -16,6 +16,8 @@ Este repositorio tiene los archivos utilizados en el taller **High-Performance C
 - [Sesión 2 Martes PM](https://github.com/DAMM16/taller-HPC-CUDA-2025/blob/main/Presentaciones/Sesion_2.pdf)
 - [Sesión 3 Miércoles AM](https://github.com/DAMM16/taller-HPC-CUDA-2025/blob/main/Presentaciones/Sesion_3_HPC.pdf)
 - [Sesión 4 Miércoles PM](https://github.com/DAMM16/taller-HPC-CUDA-2025/blob/main/Presentaciones/Sesion_4.pdf)
+- [Sesión 5 Jueves AM](https://github.com/DAMM16/taller-HPC-CUDA-2025/blob/main/Presentaciones/Sesion_4.pdf)
+- [Sesión 6 Jueves PM](https://github.com/DAMM16/taller-HPC-CUDA-2025/blob/main/Presentaciones/Sesion_6.pdf)
 
 
 Además está disponible un documento Colab con los talleres. 
@@ -24,4 +26,4 @@ Además está disponible un documento Colab con los talleres.
 - [Sesión 2](https://colab.research.google.com/drive/174jdncAY1xhJkxZLwitRQadRRexhYoDo?usp=sharing)
 - [Sesión 4](https://colab.research.google.com/drive/1UA8qbLD3U4PZhdZOnLswiw8TvYYpKU9g?usp=sharing)
 - [Sesión 6](https://colab.research.google.com/drive/1UZfL990S0mHWIa3DC3pMPobjFwdHBeUK?usp=sharing)
-
+- [Sesión 6, simulador Game of Life CUDA](https://github.com/DAMM16/taller-HPC-CUDA-2025/blob/main/codes_sesion_6/GoL_GPU.py)
